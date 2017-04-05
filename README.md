@@ -1,2 +1,3 @@
 # hello-world
-the start to becoming a top gun programmer
+The start to becoming a top gun programmer.
+My goal is to create a new kind of encryption for payment gateway processing....
